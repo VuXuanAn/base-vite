@@ -1,8 +1,8 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div class="h-[100vh] w-full grid place-items-center">
-    <span class="text-5xl font-bold"> vite work</span>
+  <div class="grid h-[100vh] w-full place-items-center">
+    <span class="text-5xl font-bold text-red-200"> vite work</span>
   </div>
 </template>
 
